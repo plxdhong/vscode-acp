@@ -4,6 +4,12 @@ All notable changes to the "vscode-acp" extension will be documented in this fil
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.2.1] - 2026-11-05
+
+### Added
+- **CodeBuddy CLI** as a pre-configured agent using the locally installed `codebuddy --acp` server.
+- CodeBuddy installation, authentication, custom configuration, and troubleshooting documentation.
+
 ## [0.2.0] - 2026-05-16
 
 ### Added
